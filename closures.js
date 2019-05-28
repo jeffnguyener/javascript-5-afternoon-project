@@ -23,14 +23,12 @@ function outer() {
 */
   
 // Code Here
-
-
+let inner = outer()
 
 //Once you do that, invoke inner.
 
 //Code Here
-
-
+inner()
 
 ////////// PROBLEM 2 //////////
 
