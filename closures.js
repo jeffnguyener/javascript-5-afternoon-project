@@ -50,6 +50,8 @@ function callFriend(name) {
 */
 
 //Code Here
+const callJake = callFriend("Jake")
+callJake('435-555-9248')
 
 
 
